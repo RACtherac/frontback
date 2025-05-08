@@ -1,0 +1,65 @@
+[
+  {
+    "BakelseId": 1,
+    "Namn": "Prinsesstårta",
+    "Beskrivning": "En klassisk svensk tårta med luftig sockerkaksbotten, lager av vaniljkräm och vispad grädde, täckt med ett tunt lager grön marsipan och toppad med en ros av marsipan.",
+    "Pris": 45,
+    "BildUrl": "/public/prinseståta.png"
+  },
+  {
+    "BakelseId": 2,
+    "Namn": "Chokladboll",
+    "Beskrivning": "En söt och chokladig boll gjord på havregryn, kakao, socker och smör, rullad i kokosflingor för en klassisk textur och smak.",
+    "Pris": 15,
+    "BildUrl": "/public/chokladbollar.png"
+  },
+  {
+    "BakelseId": 3,
+    "Namn": "Kanelbulle",
+    "Beskrivning": "En mjuk och saftig vetebulle smaksatt med kanel och kardemumma, fylld med smör och socker, rullad till perfektion och toppad med pärlsocker.",
+    "Pris": 20,
+    "BildUrl": "/public/kanelbullar.png"
+  },
+  {
+    "BakelseId": 4,
+    "Namn": "Hallongrotta",
+    "Beskrivning": "En klassisk småkaka med mördeg fylld med söt och syrlig hallonsylt i mitten, spröd på utsidan och mjuk inuti.",
+    "Pris": 10,
+    "BildUrl": "/public/hallongrotor.png"
+  },
+  {
+    "BakelseId": 5,
+    "Namn": "Dammsugare",
+    "Beskrivning": "En söt bakelse med fyllning av arraksmakande kaksmulor, täckt med grön marsipan och doppad i choklad i båda ändar – en favorit för den som gillar starka smaker.",
+    "Pris": 10,
+    "BildUrl": "/public/dammsugare.png"
+  },
+  {
+    "BakelseId": 6,
+    "Namn": "Kladdkaka",
+    "Beskrivning": "En chokladälskarnas dröm – kladdig och rik på smak med en lätt krispig yta och mjuk, nästan rinnande kärna. Serveras gärna med vispgrädde eller vaniljglass.",
+    "Pris": 20,
+    "BildUrl": "/public/kladdkaka.png"
+  },
+  {
+    "BakelseId": 7,
+    "Namn": "Äpplepaj",
+    "Beskrivning": "En varm och kryddig paj med mjuka äppelbitar, kanel och socker i en smörig pajdeg. Passar perfekt med vaniljsås eller glass.",
+    "Pris": 50,
+    "BildUrl": "/public/äpplepaj.png"
+  },
+  {
+    "BakelseId": 8,
+    "Namn": "Semla",
+    "Beskrivning": "En traditionell fastlagsbulle fylld med mandelmassa och fluffig grädde, inuti en kardemummakryddad vetebulle. En svensk favorit under våren.",
+    "Pris": 30,
+    "BildUrl": "/public/semlor.png"
+  },
+  {
+    "BakelseId": 9,
+    "Namn": "Schackrutor",
+    "Beskrivning": "En traditionell fastlagsbulle fylld med mandelmassa och fluffig grädde, inuti en kardemummakryddad vetebulle. En svensk favorit under våren.",
+    "Pris": 10,
+    "BildUrl": "/public/shackrutor.png"
+  }
+]

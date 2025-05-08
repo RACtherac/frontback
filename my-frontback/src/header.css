@@ -1,0 +1,27 @@
+.header {
+  width: 100vw;
+  background-color: #f8c471;
+  padding: 10px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+}
+
+select {
+  font-size: 16px;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+}
+

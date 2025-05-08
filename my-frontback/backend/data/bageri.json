@@ -1,0 +1,35 @@
+[
+    {
+      "SupplierId": 1,
+      "Name": "Bageri liten",
+      "Address": "Gata 1",
+      "ContactPerson": "Lilja",
+      "Phone": "0701234567",
+      "Email": "lilja@liten.se"
+    },
+    {
+      "SupplierId": 2,
+      "Name": "Matleverantör AB",
+      "Address": "Gata 2",
+      "ContactPerson": "Dahlia",
+      "Phone": "0707654321",
+      "Email": "Dahlia@mat.se"
+    },
+    {
+      "SupplierId": 3,
+      "Name": "Leveranskörning",
+      "Address": "Gata 3",
+      "ContactPerson": "Fred",
+      "Phone": "0707814321",
+      "Email": "Fred@kör.se"
+    },
+    {
+      "SupplierId": 4,
+      "Name": "Åsiktshjälp",
+      "Address": "Gata 4",
+      "ContactPerson": "Raws",
+      "Phone": "7584734",
+      "Email": "åskt@rarw.se"
+    }
+  ]
+  
