@@ -21,10 +21,9 @@ const SupplierList: React.FC = () => {
 
   return (
     <div style={styles.wrapper}>
-      <div style={styles.container}>
-        <h1>Bageri Dagnys</h1>
+              <h1>Bageri Dagnys</h1>
+      <div style={{display: 'flex', flexWrap: 'wrap', gap: '20px'}}>     
         <h2>Vi vill visa upp våra leverantörer!</h2>
-
         <div style={styles.row}>
           {suppliers.map((supplier) => (
             <div key={supplier.SupplierId} style={styles.card}>

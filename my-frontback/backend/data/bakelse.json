@@ -37,7 +37,7 @@
   {
     "BakelseId": 6,
     "Namn": "Kladdkaka",
-    "Beskrivning": "En chokladälskarnas dröm – kladdig och rik på smak med en lätt krispig yta och mjuk, nästan rinnande kärna. Serveras gärna med vispgrädde eller vaniljglass.",
+    "Beskrivning": "En chokladälskarnas dröm kladdig och rik på smak med en lätt krispig yta och mjuk, nästan rinnande kärna. Serveras gärna med vispgrädde eller vaniljglass.",
     "Pris": 20,
     "BildUrl": "/public/kladdkaka.png"
   },
@@ -58,7 +58,7 @@
   {
     "BakelseId": 9,
     "Namn": "Schackrutor",
-    "Beskrivning": "En traditionell fastlagsbulle fylld med mandelmassa och fluffig grädde, inuti en kardemummakryddad vetebulle. En svensk favorit under våren.",
+    "Beskrivning": "Spröda och smöriga schackrutor med smak av vanilj och kakao, vackert rutiga. En tidlös småkaka som hör hemma på varje svenskt fikabord.",
     "Pris": 10,
     "BildUrl": "/public/shackrutor.png"
   }

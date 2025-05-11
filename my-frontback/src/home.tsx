@@ -23,8 +23,10 @@ const Home: React.FC = () => {
 
       <h2>Vem är Dagnys?</h2>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis exercitationem enim porro rerum dolor itaque illo recusandae, expedita veritatis molestiae harum voluptate! Ab, nemo dolore. Gammal dam</p>
+      <div style={styles.imageRow}>
       <img src="/public/Dagnys.png" alt="Mormor Dagny" style={styles.DagnysImage} />
-      <img src="/public/gammaltbageri.png" alt="Familj Dagny bageri" style={styles.GammaltBageri} />
+      <img src="/public/gammaltbageri.png" alt="Familj Dagny bageri" style={styles.GammaltBageri} /></div>
+      
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ullam ea porro a magnam possimus modi, nostrum recusandae culpa eaque eveniet aut, odit ipsum, eos vero repellendus sed laborum expedita.</p>
 
 
@@ -58,7 +60,7 @@ const styles = {
   imageRow: {
     display: 'flex',
     justifyContent: 'center',
-    gap: '20px',
+    gap: '30px',
     flexWrap: 'wrap' as const,
   },
   productImage: {
